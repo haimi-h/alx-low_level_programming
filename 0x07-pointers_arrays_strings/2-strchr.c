@@ -1,6 +1,6 @@
 #include "main.h"
 
-char *_strchar(char *s, char c)
+char *_strchr(char *s, char c)
 {
 	int i;
 	 for (i =0; *(s + i); i++)
